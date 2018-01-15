@@ -1,13 +1,26 @@
-<html>
+<?php
 
+
+
+
+?>
 <head>
-
- <title>souffrance animale</title>
+	<link rel="stylesheet" type="text/css" href="navbar.css">
 </head>
 
-<body>
-<h1>La souffrance animale</h1>
+<div class="navbar" id="myNavbar">
+  <a href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<?php
 
-<h2>Les abatoirs</h2>
-
-<p><a href="file:///C:/Users/Guillaume/Desktop/pojetsite/page2.php">page suivante</a></p>
+?>
+echo "# ProjetAnimal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/YusufA28/ProjetAnimal.git
+git push -u origin master
