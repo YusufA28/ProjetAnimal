@@ -9,7 +9,7 @@
 
 
 
-<p><a href="file:///C:/Users/Guillaume/Desktop/pojetsite/page1.php">page precedente</a></p>
+<p><a href="page1.php">page precedente</a></p>
 
 </body>
 </html>
