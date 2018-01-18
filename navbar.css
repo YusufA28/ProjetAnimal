@@ -5,6 +5,8 @@
     position: fixed;
     margin-right : 20px;
     width: 100%;
+    position : absolute;
+    margin-top: 100px;
 }
 
 /* Style the links inside the navigation bar */
